@@ -2,7 +2,7 @@
 /* about */
 h3.tittle {
   font-size: 43px;
-  color: #f97d42;
+  color: #ffafbd;
   text-shadow: 0 1px 2px rgba(0, 0, 0, 0.14);
 }
 
@@ -25,7 +25,7 @@ h3.tittle {
   color: #222;
   padding: .5em 0;
   text-align: center;
-  border: 3px double #f97d42;
+  border: 3px double #ffafbd;
   letter-spacing: 1px;
 }
 
