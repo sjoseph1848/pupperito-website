@@ -10,17 +10,18 @@
 }
 
 .csslider>ul>li:first-child {
-  background: url(../../assets/images/1.jpg) no-repeat center;
+  background: url(../../assets/images/cover1.jpg) no-repeat center;
   background-size: cover;
+  filter:grayscale(40%);
 }
 
 .csslider>ul>li:nth-child(2) {
-  background: url(../../assets/images/2.jpg) no-repeat center;
+  background: url(../../assets/images/cover2.jpg) no-repeat center;
   background-size: cover;
 }
 
 .csslider>ul>li:nth-child(3) {
-  background: url(../../assets/images/3.jpg) no-repeat center;
+  background: url(../../assets/images/cover3.jpg) no-repeat center;
   background-size: cover;
 }
 
